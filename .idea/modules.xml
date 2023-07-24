@@ -4,7 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Employee/Employee.iml" filepath="$PROJECT_DIR$/Employee/Employee.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises-object-oriented-programming.iml" filepath="$PROJECT_DIR$/Exercises-object-oriented-programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MoneyConverter/MoneyConverter.iml" filepath="$PROJECT_DIR$/MoneyConverter/MoneyConverter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Student/Student.iml" filepath="$PROJECT_DIR$/Student/Student.iml" />
+      <module fileurl="file://$PROJECT_DIR$/V1_calcultor/V1_calcultor.iml" filepath="$PROJECT_DIR$/V1_calcultor/V1_calcultor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/V2_calculator/V2_calculator.iml" filepath="$PROJECT_DIR$/V2_calculator/V2_calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/V3_calculator/V3_calculator.iml" filepath="$PROJECT_DIR$/V3_calculator/V3_calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Static_members/v1/v1.iml" filepath="$PROJECT_DIR$/Static_members/v1/v1.iml" />
     </modules>
   </component>
 </project>
