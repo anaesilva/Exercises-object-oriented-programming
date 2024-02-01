@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Employee/Employee.iml" filepath="$PROJECT_DIR$/Employee/Employee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Escola/Escola.iml" filepath="$PROJECT_DIR$/Escola/Escola.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises-object-oriented-programming.iml" filepath="$PROJECT_DIR$/Exercises-object-oriented-programming.iml" />
       <module fileurl="file://$PROJECT_DIR$/MoneyConverter/MoneyConverter.iml" filepath="$PROJECT_DIR$/MoneyConverter/MoneyConverter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Student/Student.iml" filepath="$PROJECT_DIR$/Student/Student.iml" />
