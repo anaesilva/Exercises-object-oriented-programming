@@ -4,7 +4,6 @@ public class Main {
     public static void main(String[] args) {
         Animal camelo = new Animal();
         camelo.setNome("Camelo");
-        camelo.setComprimento(150);
         //camelo.setPatas(4);
         camelo.setCor("Amarelo");
         camelo.setAmbiente("Terra");
